@@ -24,9 +24,9 @@ repository               : "john-subosits/john-subosits.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "John Subosits"
+  name             : "John Subosits, PhD"
   pronouns         : # example: "he/him"  
-  bio              : "Director, Extreme Performance Intelligent Control group"
+  bio              : "Director, Extreme Performance Intelligent Control Department"
   location         : "Mountain View, CA"
   employer         : "Toyota Research Institute"
   uri              : # URL
