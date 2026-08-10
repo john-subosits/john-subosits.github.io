@@ -1,6 +1,6 @@
 ---
 title: "Autonomous tandem drifting"
-excerpt: "World's first autonomous tandem drift<br/><img src='/images/500x300.png'>"
+excerpt: "World's first autonomous tandem drift"
 collection: portfolio
 ---
 
