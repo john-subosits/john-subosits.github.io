@@ -23,14 +23,14 @@ repository               : "john-subosits/john-subosits.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "John Subosits"
   pronouns         : # example: "he/him"  
   bio              : "Director, Extreme Performance Intelligent Control group"
-  location         : "Earth"
+  location         : "Mountain View, CA"
   employer         : "Toyota Research Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "johnkarls135@gmail.com" 
 
   # Academic websites
   academia         : # URL
