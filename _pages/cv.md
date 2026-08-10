@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mechanical Engineering, Stanford University, 2020
+* M.S. in Mechanical Engineering, Stanford University, 2015
+* B.S.E. in Mechanical and Aerospace Engineering, Princeton University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Director, Extreme Performance Intelligent Control – Toyota Research Institute (TRI), Los Altos, CA – April 2026-Present
+  * Directed a team of 18 engineers and researchers developing autonomous robotic platforms integrating advanced perception, localization, planning, and control algorithms. 
+  * Collaborated with mechanical and electrical engineering teams to optimize sensor placement, actuator performance, and embedded firmware.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Senior Manager, Extreme Performance Intelligent Control – TRI, Los Altos, CA – Nov 2024-March 2026
+  * Led end-to-end system integration for hardware-software stacks, enabling successful live demonstrations 
+  * Authored and co-authored many peer-reviewed papers and secured numerous patents in robotics and autonomous systems. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Manager, Performance–centric Machine Learning– Toyota Research Institute, Los Altos, CA – July 2022-October 2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research Scientist, Extreme Vehicle Dynamics Control – Toyota Research Institute, Los Altos, CA - July 2020-June 2022
+  * Built optimal trajectory planning framework for extreme vehicle maneuvers
+  * Refined autonomous control approaches for driving at the limit based on results of real-world tests using trajectories developed by methods above
+  * Enhanced fidelity of existing vehicle dynamic simulation software through modeling improvements and parameter optimization
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
